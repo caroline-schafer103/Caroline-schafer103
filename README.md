@@ -4,6 +4,7 @@ My work spans from AI-powered data pipelines to interactive web apps, with a foc
 
 ## Featured Project
 - [TerraBite](https://github.com/caroline-schafer103/TerraBite#) — Full-stack meal planning app that helps reduce food waste with pantry tracking, grocery list generation, and AI-powered recipe suggestions (Django, React, PostgreSQL).
+- [WeatherWise](https://github.com/ocotto973/WeatherWise-Forked) - Weather App
 
 ## Tech Stack
 Python • JavaScript • React • Next.js • Django • PostgreSQL • Spring WebFlux • MongoDB • Docker • GitHub Actions
