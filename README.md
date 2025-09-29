@@ -8,6 +8,6 @@ My work spans from AI-powered data pipelines to interactive web apps, with a foc
 - [WeatherWise](https://github.com/caroline-schafer103/WeatherWise) - Responsive weather app with React and Next.js featuring hourly and weekly forecasts, city comparisons, and accessibility options to enhance usability.
 
 ## Tech Stack
-Python • JavaScript • React • Next.js • Django • PostgreSQL • Spring WebFlux • MongoDB • Docker • GitHub Actions
+React • Java • Python • Machine Learning • SQL • API Development • SpringBoot • Next.js • Django • PHP
 
 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/caroline--schafer) • cschafer103@gmail.com
