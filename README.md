@@ -2,6 +2,9 @@
 I’m a software engineer passionate about building full-stack applications that turn data into intuitive, impactful user experiences.  
 My work spans from AI-powered data pipelines to interactive web apps, with a focus on scalable backend systems and polished frontends.
 
+🌐 [Visit My Portfolio Website](https://caroline-schafer-website.vercel.app/)
+
+
 ## Featured Project
 - [AcoustiCare](https://github.com/caroline-schafer103/Acousticare) - Healthcare mobile app with React Native, Django, and PostgreSQL to help physicians treat Dysphonia by enabling secure voice sample collection, dynamic surveys, digital consent, and data export
 - [TerraBite](https://github.com/caroline-schafer103/TerraBite#) — Full-stack meal planning app that helps reduce food waste with pantry tracking, grocery list generation, and AI-powered recipe suggestions (Django, React, PostgreSQL).
