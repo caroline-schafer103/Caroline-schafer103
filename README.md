@@ -4,7 +4,6 @@ My work spans from AI-powered data pipelines to interactive web apps, with a foc
 
 🌐 [Visit My Portfolio Website](https://caroline-schafer-website.vercel.app/)
 
-
 ## Featured Project
 - [AcoustiCare](https://github.com/caroline-schafer103/Acousticare) - Healthcare mobile app with React Native, Django, and PostgreSQL to help physicians treat Dysphonia by enabling secure voice sample collection, dynamic surveys, digital consent, and data export
 - [TerraBite](https://github.com/caroline-schafer103/TerraBite#) — Full-stack meal planning app that helps reduce food waste with pantry tracking, grocery list generation, and AI-powered recipe suggestions (Django, React, PostgreSQL).
@@ -13,4 +12,4 @@ My work spans from AI-powered data pipelines to interactive web apps, with a foc
 ## Tech Stack
 React • Java • Python • Machine Learning • SQL • API Development • SpringBoot • Next.js • Django • PHP
 
-📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/caroline--schafer) • cschafer103@gmail.com
+📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/caroline--schafer) • cschafer103@gmail.com • [Resume](https://caroline-schafer-website.vercel.app/resume)
